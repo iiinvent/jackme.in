@@ -1,0 +1,43 @@
+Domain: SSAirfoilErrorDomain
+
+Code: -2500
+
+NSLocalizedDescription: RTSP Forbidden Error
+
+NSLocalizedRecoverySuggestion: The remote speaker "mishka’s Mac mini" has forbidden access.
+
+SSRTSPRequest: POST /pair-pin-start RTSP/1.0
+CSeq: 1
+Active-Remote: 2497983511
+X-Apple-Client-Name: Airfoil on mishka’s Mac mini
+Client-Instance: A3D91CB59BC8FB04
+DACP-ID: 390A22B4A0300613
+User-Agent: Airfoil/5.12.6 (Macintosh; N; Intel)
+
+SSRTSPResponse: RTSP/1.0 403 Forbidden
+Content-Length: 0
+Server: AirTunes/925.5.1
+CSeq: 1
+X-Apple-ProcessingTime: 3
+X-Apple-RequestReceivedTimestamp: 30289868Domain: SSAirfoilErrorDomain
+
+Code: -2500
+
+NSLocalizedDescription: RTSP Forbidden Error
+
+NSLocalizedRecoverySuggestion: The remote speaker "mishka’s Mac mini" has forbidden access.
+
+SSRTSPRequest: POST /pair-pin-start RTSP/1.0
+CSeq: 1
+Active-Remote: 2497983511
+X-Apple-Client-Name: Airfoil on mishka’s Mac mini
+Client-Instance: A3D91CB59BC8FB04
+DACP-ID: 390A22B4A0300613
+User-Agent: Airfoil/5.12.6 (Macintosh; N; Intel)
+
+SSRTSPResponse: RTSP/1.0 403 Forbidden
+Content-Length: 0
+Server: AirTunes/925.5.1
+CSeq: 1
+X-Apple-ProcessingTime: 3
+X-Apple-RequestReceivedTimestamp: 30289868
